@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\hello_world\\unreal project\\Text_Game\\Source\\Text_Game\\Text_Game.Build.cs",
+		"C:\\hello_world\\unreal project\\Text_Game\\Source\\Text_Game.Target.cs",
+		"C:\\hello_world\\unreal project\\Text_Game\\Source\\Text_GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
